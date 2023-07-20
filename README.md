@@ -7,11 +7,9 @@ PersomodGPT is a GPT prompt in a file that can be modified to make ChatGPT act i
 # Compatibility
 ## Tested
 
-none
+- ChatGPT
 
 ## Not tested
-
-- ChatGPT
 
 - Clyde (Discord)
 
