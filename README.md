@@ -9,6 +9,10 @@ PersomodGPT is a GPT prompt in a file that can be modified to make ChatGPT act i
 
 - ChatGPT
 
+## Tested (partial success)
+
+- Chai
+
 ## Tested (failed)
 
 - Clyde (Discord)
@@ -16,8 +20,6 @@ PersomodGPT is a GPT prompt in a file that can be modified to make ChatGPT act i
 ## Not tested
 
 - character.ai
-
-- Chai
 
 ## License
 This project is also licensed under the MIT license.
