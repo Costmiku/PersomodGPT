@@ -27,5 +27,9 @@ none
 
 - character.ai
 
+- Forefront Chat
+
+- unit.host
+
 ## License
 This project is also licensed under the MIT license.
