@@ -15,6 +15,8 @@ PersomodGPT Spotlight is the more often updated version of PersomodGPT, and at t
 
 - Clyde (Discord)
 
+- Forefront Chat (Claude Instant)
+
 ## Tested (partial success)
 
 - Chai
@@ -30,8 +32,6 @@ none
 - character.ai
 
 - Forefront Chat (GPT 4)
-
-- Forefront Chat (Claude Instant)
 
 - Forefront Chat (Claude 2)
 
