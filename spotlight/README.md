@@ -27,7 +27,11 @@ none
 
 - character.ai
 
-- Forefront Chat
+- Forefront Chat (GPT 4)
+
+- Forefront Chat (Claude Instant)
+
+- Forefront Chat (Claude 2)
 
 - unit.host
 
