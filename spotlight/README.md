@@ -19,6 +19,8 @@ PersomodGPT Spotlight is the more often updated version of PersomodGPT, and at t
 
 - Chai
 
+- Forefront Chat (GPT 3.5)
+
 ## Tested (failed)
 
 none
